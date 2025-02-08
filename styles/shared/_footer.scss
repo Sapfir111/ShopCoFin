@@ -220,6 +220,8 @@
     button {
       padding: 16px 12px;
       font-size: 16px;
+      background-color: var(--color-light);
+      color: var(--color-dark);
 
       @include tablet {
         font-size: 14px;
